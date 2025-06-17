@@ -28,15 +28,6 @@ A simple yet powerful **password generator** built using HTML, CSS, and JavaScri
 
 ---
 
-## 💡 Bonus Ideas (Future Enhancements)
-
-- Add password strength indicator
-- Save previously generated passwords locally
-- Export password as `.txt` file
-- Dark/light theme toggle
-
----
-
 ## 🚀 Technologies Used
 
 - HTML5
