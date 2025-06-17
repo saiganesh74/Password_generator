@@ -51,4 +51,4 @@ To run this app locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git 
+   git clone https://github.com/saiganesh74/Password_generator 
