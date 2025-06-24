@@ -28,6 +28,11 @@ A simple yet powerful **password generator** built using HTML, CSS, and JavaScri
 
 ---
 
+## Preview 
+https://password-generator-five-sooty.vercel.app/
+
+---
+
 ## 🚀 Technologies Used
 
 - HTML5
